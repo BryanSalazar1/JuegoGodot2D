@@ -1,8 +1,7 @@
 # Juego de Naves en Godot
 
-Este es un juego de naves en 2D desarrollado con Godot, creado como un reto personal para aprender a usar este motor de desarrollo en un mes y explorar qué soy capaz de hacer en ese tiempo. El juego se encuentra en una fase temprana e inestable, pero contiene elementos básicos de un juego de acción espacial.
 
-**Nota importante**: Este proyecto **no continuará en desarrollo**. El objetivo principal era aprender y experimentar con Godot en un plazo corto de tiempo. Sin embargo, se aceptan contribuciones para mejorar el juego o expandirlo, ¡si te interesa aportar, siéntete libre de hacerlo!
+
 
 <div align="center">
   <img src="imgGithub/inicioJuego.png" alt="Inicio" width="500">
